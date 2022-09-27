@@ -12,5 +12,6 @@
     "update"
   ],
   "author": "Juan Montilla <montillasanchezjuancarlos@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
