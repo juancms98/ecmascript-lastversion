@@ -81,4 +81,4 @@
 - [Instagram](https://www.instagram.com/juancms98/)
 - [My Web site](https://juancodev.github.io/Portfolio/)
 
-![User](https://res.cloudinary.com/juancms98/image/upload/v1630885661/juancms98_yzbssj.png)
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1630885661/juancms98_yzbssj.png" width="700" heigth="700">
